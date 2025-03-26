@@ -62,7 +62,7 @@ nuevos conocimientos y desarrollar proyectos interesantes.
 <a href= "https://www.linkedin.com/in/carlos-saquel/">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin-white&logoColor=fff"  alt="LinkedIn">
 </a>
-<a href= "carlos.saquel@gmail.com">
+<a href= "mailto:carlos.saquel@gmail.com">
     <img src="https://custom-icon-badges.demolab.com/badge/Gmail-D44638?style=flat-square&logo=gmail&logoColor=fff"  alt="LinkedIn">
 </a>
 <a href="https://github.com/desareca" >
