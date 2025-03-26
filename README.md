@@ -33,8 +33,8 @@ nuevos conocimientos y desarrollar proyectos interesantes.
   <img src="https://img.shields.io/badge/Plotly-239120?style=flat-square&logo=plotly&logoColor=fff">
 
   <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
   
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Svelte-4A4A55?style=flat-square&logo=svelte&logoColor=FF3E00">
@@ -46,13 +46,13 @@ nuevos conocimientos y desarrollar proyectos interesantes.
   
   <img src="https://img.shields.io/badge/AWS-%23FF9900?style=flat-square&logo=amazonwebservices&logoColor=232F3E">
   <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon%20Fargate-FF9900?style=flat-square&logo=awsfargate&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon%20ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Amazon%20ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white">
 
 </span>
 
