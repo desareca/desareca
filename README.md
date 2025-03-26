@@ -17,8 +17,8 @@ nuevos conocimientos y desarrollar proyectos interesantes.
 
 <img align="right" width=300px alt="" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDgya3YyOGl2eDluajZ2cGtwNXNmanI1c3NwZmlpNjZseGEyM2RubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IUNycHoVqvLDowiiam/giphy.gif" />
 
-🔭  &nbsp; Actualmente trabajo en Evoletgroup como científico de datos.
-🌱  &nbsp; Me interesa aprender de todo relacionado con datos y actualmente me estoy centrando en análisis, visualización y un poco de cloud computing.
+🔭  &nbsp; Actualmente trabajo en Evoletgroup como científico de datos.\
+🌱  &nbsp; Me interesa aprender de todo relacionado con datos y actualmente me estoy centrando en análisis, visualización y un poco de cloud computing.\
 👀  &nbsp; Además a de ciencia de datos, me gusta 💻 ver series, 🎨 a veces pintar y 🐱 jugar con mi gato.
 
 #### 🛠️ Herramientas que utilizo
