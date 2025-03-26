@@ -4,14 +4,8 @@
 
 👨‍💻&nbsp;***Algo sobre mi...***
 <p align="justify">
-Soy Ingeniero Civil Electrónico, me dediqué al desarrollo de proyectos
-industriales por mucho tiempo. La curiosidad por nuevos desafíos me llevó
-hacia la ciencia de datos, campo en el que he profundizado mediante cursos, desarrollo de
-proyectos y competencias en Kaggle.
-Mi pasión por estar continuamente aprendiendo me ha impulsado a explorar constantemente nuevas
-disciplinas relacionadas con el análisis y la visualización de datos, así como las tecnologías
-necesarias para implementar estos análisis. Estoy siempre en busca de adquirir y aplicar
-nuevos conocimientos y desarrollar proyectos interesantes.
+Soy Ingeniero Civil Electrónico, me dediqué al desarrollo de proyectos industriales por mucho tiempo. La curiosidad por nuevos desafíos me llevó hacia la ciencia de datos, campo en el que he profundizado mediante cursos, desarrollo de proyectos y competencias en Kaggle.
+Mi pasión por estar continuamente aprendiendo me ha impulsado a explorar constantemente nuevas disciplinas relacionadas con análisis y visualización de datos, así como las tecnologías necesarias para implementar estos análisis. Estoy siempre en busca de adquirir y aplicar nuevos conocimientos y desarrollar proyectos interesantes.
 </p>
 <!--  -->
 
