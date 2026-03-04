@@ -16,7 +16,9 @@ Electronic Engineer turned Data Scientist, interested in the full ML lifecycle �
 🏅 &nbsp; 6 Kaggle medals across competition and community tracks  
 🌱 &nbsp; Transitioning toward ML Engineering — building production-ready pipelines and cloud infrastructure  
 
+<br clear="right"/>
 
+---
 #### 🚀 Featured Projects
 
 | Project | Description | Stack |
