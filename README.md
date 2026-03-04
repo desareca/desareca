@@ -3,27 +3,19 @@
 </h2>
 
 👨‍💻 &nbsp;***A bit about me...***
+
+
+<img align="right" width="300px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDgya3YyOGl2eDluajZ2cGtwNXNmanI1c3NwZmlpNjZseGEyM2RubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IUNycHoVqvLDowiiam/giphy.gif"/>
+
 <p align="justify">
 Electronic Engineer turned Data Scientist, interested in the full ML lifecycle — from problem framing and data exploration to modeling, deployment, and monitoring. Currently deepening my focus on ML Engineering and cloud infrastructure.
 </p>
-
-<table>
-<tr>
-<td valign="top" width="%">
 
 🎓 &nbsp; M.Sc. in Data Science, Universidad del Desarrollo — graduated with highest distinction  
 💼 &nbsp; 3 years working as a Data Scientist  
 🏅 &nbsp; 6 Kaggle medals across competition and community tracks  
 🌱 &nbsp; Transitioning toward ML Engineering — building production-ready pipelines and cloud infrastructure  
 
-</td>
-<td valign="top" width="30%">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDgya3YyOGl2eDluajZ2cGtwNXNmanI1c3NwZmlpNjZseGEyM2RubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IUNycHoVqvLDowiiam/giphy.gif" width="250px" />
-</td>
-</tr>
-</table>  
-
----
 
 #### 🚀 Featured Projects
 
