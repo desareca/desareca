@@ -23,9 +23,9 @@ Electronic Engineer turned Data Scientist, interested in the full ML lifecycle �
 
 | Project | Description | Stack |
 |---|---|---|
-| [🩺 Retinopathy Detection](https://github.com/desareca/retinopathy-mle) | End-to-end ML project for diabetic retinopathy classification. Full training pipeline, experiment tracking, REST API and live demo. **85.18% recall on test set.** | TensorFlow · MobileNetV2 · MLflow · FastAPI · Docker |
+| [🩺 Retinopathy Detection](https://github.com/desareca/retinopathy-mle) | End-to-end ML project for diabetic retinopathy classification. Full training pipeline, experiment tracking, REST API and live demo. 85.18% recall on test set. | TensorFlow · MobileNetV2 · MLflow · FastAPI · Docker |
 | [🌧️ Santiago Weather Forecast](https://github.com/desareca/santiago-weather-forecast) | Precipitation forecasting for Santiago, Chile, addressing zero-inflated data distributions using LightGBM and meteorological features from the Open-Meteo API. *(In progress)* | LightGBM · Python · Open-Meteo API |
-
+| [🏪 GAF Retail Forecasting](https://github.com/desareca/gaf_retail_forecasting) | Exploración de un sistema de forecasting de ventas retail usando Gramian Angular Fields (GAF) como representación visual de series temporales. | EfficientNetB0 · Python · TensorFlow |
 ---
 
 #### 🛠️ Tools I work with
