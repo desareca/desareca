@@ -22,10 +22,11 @@ Electronic Engineer turned Data Scientist, working across the full ML lifecycle 
 
 | Project | Description | Stack |
 |---|---|---|
-| [🩺 Retinopathy Detection](https://github.com/desareca/retinopathy-mle) | End-to-end ML project for diabetic retinopathy classification. Full training pipeline, experiment tracking, REST API and live demo. 85.18% recall on test set. | TensorFlow · MobileNetV2 · MLflow · FastAPI · Docker |
+| [📦 M5 Probabilistic Forecasting](https://github.com/desareca/m5-probabilistic-forecast) | End-to-end probabilistic forecasting pipeline on the M5 dataset (Walmart), built on GCP. Predicts sales distributions (P5–P95) for 30,490 item×store series, comparing ARIMA, BigQuery ML ARIMA_PLUS, and Quantile LightGBM. | BigQuery · Vertex AI · LightGBM · Terraform |
 | [🌧️ Santiago Weather Forecast](https://github.com/desareca/santiago-weather-forecast) | Precipitation forecasting for Santiago, Chile, addressing zero-inflated data distributions using LightGBM and meteorological features from the Open-Meteo API. | LightGBM · Python · Open-Meteo API |
+| [🩺 Retinopathy Detection](https://github.com/desareca/retinopathy-mle) | End-to-end ML project for diabetic retinopathy classification. Full training pipeline, experiment tracking, REST API and live demo. 85.18% recall on test set. | TensorFlow · MobileNetV2 · MLflow · FastAPI · Docker |
 | [🏪 GAF Retail Forecasting](https://github.com/desareca/gaf_retail_forecasting) | Exploring a retail sales forecasting system using Gramian Angular Fields (GAF) as a visual representation of time series. | EfficientNetB0 · Python · TensorFlow |
-| [📦 M5 Probabilistic Forecasting](https://github.com/desareca/m5-probabilistic-forecast) 🚧 *In progress* | End-to-end probabilistic forecasting pipeline on the M5 dataset (Walmart), built on GCP. Predicts sales distributions (P5–P95) for 30,490 item×store series, comparing ARIMA, BigQuery ML ARIMA_PLUS, and Quantile LightGBM. | BigQuery · Vertex AI · LightGBM · Terraform |
+
 ---
 
 #### 🛠️ Tools I work with
